@@ -30,6 +30,7 @@
 
 from __future__ import print_function
 
+import utils.session
 import struct
 import sys
 from contextlib import contextmanager
